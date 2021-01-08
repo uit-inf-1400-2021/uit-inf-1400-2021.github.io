@@ -26,7 +26,7 @@ Praktisk informasjon
 * [Readings](readings.md) - pensum, anbefalt litteratur og linker til nyttige ressurser.
 * [GitHub repo for kurset](https://github.com/uit-inf-1400-2021/uit-inf-1400-2021.github.io) 
 * [Direktelink til kurset i Canvas](https://uit.instructure.com/courses/21176)
-* TODO: for 2020:   Discord: se ifi-discord, kanal inf-1400.
+* Discord: Link til discorden ligger i canvas (under Home eller Syllabus). 
 
 "Timeplanen" kan ikke oppdateres av kursstaben, så den må ses på som romallokering. Den faktiske kjøreplanen vil ligge i semesterplanen over.
 
