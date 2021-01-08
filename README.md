@@ -14,6 +14,8 @@ UiT har lagt ut informasjon med råd til studenter og ansatte samt linker til an
 * Informasjon fra UiT: [https://uit.no/korona](https://uit.no/korona)
 * Information in English: [https://uit.no/corona](https://uit.no/corona)
 
+Se også litt mer informasjon her: [korona.md](korona.md). 
+
 
 Praktisk informasjon
 --------------
