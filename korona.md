@@ -1,9 +1,9 @@
 Korona-tilpasninger for inf-1400 våren 2021
 ========================
 
-Følg med på UiTs informasjon på: 
-
-- [https://uit.no/korona](https://uit.no/korona)
+UiT har lagt ut informasjon med råd til studenter og ansatte her: 
+* Informasjon fra UiT: [https://uit.no/korona](https://uit.no/korona)
+* Information in English: [https://uit.no/corona](https://uit.no/corona)
 
 Vi forholder oss til gjeldende regler og oppfordringer fra myndigheter og UiT. 
 
@@ -15,12 +15,17 @@ Det betyr blant annet:
 Forelesninger
 ------------
 
+Alle forelesninger skal tas opp slik at det vil være mulig å følge med selv om man bør holde seg hjemme. 
+
+Vi kjører fysisk oppmøte ved forelesninger når rådet fra UiT er at vi skal gjøre dette. Det samme gjelder gruppene. 
+Følg med på mail og meldinger fra kurset. Endringer kan komme på kort varsel. 
+
 Ved fysisk oppmøte: 
 - Forelesningen vil bli streamet fra forelesningsrommmet via mediasite. 
 - Vi vil prøve å henge med på discord-chaten i løpet av forelesningene slik at det vil være mulig å stille spørsmål underveis for de som ikke er tilstede. 
 
 Ved oppmøte online: 
-- I utgangspunktet kommer vi til å bruke Zoom. 
+- I utgangspunktet kommer vi til å bruke Zoom og følge med på Discord i tilfelle det er spørsmål der også. 
 
 Forelesningene vil bli tatt opp og gjort tilgjengelig når mediasite er ferdig med konvertering. Dette kan ta litt tid. 
 

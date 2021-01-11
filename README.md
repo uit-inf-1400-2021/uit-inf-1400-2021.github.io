@@ -1,20 +1,7 @@
 INF-1400 Objektorientert programmering - Våren 2021
 ================================
 
-Korona og gjennomføring av kurset
--------------------
-
-Alle forelesninger skal tas opp slik at det vil være mulig å følge med selv om man bør holde seg hjemme. 
-
-Vi kjører fysisk oppmøte ved forelesninger når rådet fra UiT er at vi skal gjøre dette. Det samme gjelder gruppene. 
-Følg med på mail og meldinger fra kurset. Endringer kan komme på kort varsel. 
-
-UiT har lagt ut informasjon med råd til studenter og ansatte samt linker til andre ressurssider her: 
-
-* Informasjon fra UiT: [https://uit.no/korona](https://uit.no/korona)
-* Information in English: [https://uit.no/corona](https://uit.no/corona)
-
-Se også litt mer informasjon her: [korona.md](korona.md). 
+**Informasjon om Korona og gjennomføring av kurset:** : [se her](korona.md)
 
 
 Praktisk informasjon
