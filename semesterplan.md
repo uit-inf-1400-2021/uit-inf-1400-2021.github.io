@@ -92,9 +92,9 @@ Opptak av forelesninger
 Under vil dere finne linker til opptak av forelesningene etter hvert som de blir tilgjengelige. 
 
 
-| Dato | Zoom/Twitch | Mediasite |
-|------|-------------|-----------|
-|      |             |           |
+| Dato       | Mediasite                                                                               |
+|------------|-----------------------------------------------------------------------------------------|
+| 2020-01-12 | [mediasite](https://mediasite.uit.no/Mediasite/Play/770879804d5743d88f0d20ca6fa8062d1d) |
 
 
 
