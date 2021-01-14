@@ -76,7 +76,7 @@ Tutorials
 
 Forelesninger: 
 - Tirsdag 14:15-16:00 
-- Fredag  12:15-14:00 
+- Fredag  10:15-12:00 
 
 Se [timeplan.uit.no](http://timeplan.uit.no/emne_timeplan.php?sem=21v&module[]=INF-1400-1)
 for detaljer om hvilket rom vi skal være på. Vi blir flyttet litt
