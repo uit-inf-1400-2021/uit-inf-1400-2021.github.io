@@ -28,7 +28,19 @@ Tutorials
 | 4   | Ma 25.01 - Fr 29.01 | Pygame tutorial |                |
 
 
-2020: Ingen gruppeøvinger 15.01 på grunn av seminar. 
+
+Forelesninger
+-------------
+
+- Tirsdag 14:15-16:00 
+- Fredag  10:15-12:00 
+
+Se [timeplan.uit.no](http://timeplan.uit.no/emne_timeplan.php?sem=21v&module[]=INF-1400-1)
+for detaljer om hvilket rom vi skal være på. Vi blir flyttet litt
+rundt i løpet av semesteret.
+
+Forkortelser: 
+* OOP : Dusty Phillips. Python 3 Object Oriented Programming
 
 
 | U#   | Dato     | Tema                                    | Pensum, forelesningsnoatater, ++                                                           | 
@@ -74,16 +86,6 @@ Tutorials
 | w 20 | Ti 18.05 |                                         |                                                                                            | 
 |      | Fr 21.05 | Eksamen                                 | NB: denne *kan* bli flyttet uten at det blir oppdatert her                                 | 
 
-Forelesninger: 
-- Tirsdag 14:15-16:00 
-- Fredag  10:15-12:00 
-
-Se [timeplan.uit.no](http://timeplan.uit.no/emne_timeplan.php?sem=21v&module[]=INF-1400-1)
-for detaljer om hvilket rom vi skal være på. Vi blir flyttet litt
-rundt i løpet av semesteret.
-
-Forkortelser: 
-* OOP : Dusty Phillips. Python 3 Object Oriented Programming
 
 
 Opptak av forelesninger 
