@@ -16,6 +16,7 @@ Supplementary
 Suggested literature
 
 * [Writing Idiomatic Python, Jeff Knupp](http://www.jeffknupp.com/writing-idiomatic-python-ebook/)
+* [Introduction to Scientific Programming with Python](https://link.springer.com/book/10.1007%2F978-3-030-50356-7)
 
 PyGame: 
 
