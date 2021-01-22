@@ -6,14 +6,14 @@ Planen er tentativ og vil bli endret underveis.
 Obligatoriske oppgaver
 -----------------
 
-| U#  | Dato     | Oblig                         | Opptak |
-| --- | -----    | -----------------------       | -----  |
-| 3   | Fr 22.01 | Oblig 1 ut                    | TBA    |
-| 7   | To 18.02 | Oblig 1 inn                   |        |
-|     | Fr 19.02 | Oblig 2 ut                    | TBA    |
-| 10  | To 11.03 | Oblig 2 inn                   |        |
-|     | Fr 12.03 | Oblig 3 ut                    | TBA    |
-| 14  | To 08.04 | Oblig 3 inn (kan bli flyttet) |        |
+| U#  | Dato     | Oblig                         | Opptak                                                                                  |
+| --- | -----    | -----------------------       | -----                                                                                   |
+| 3   | Fr 22.01 | Oblig 1 ut                    | [mediasite](https://mediasite.uit.no/Mediasite/Play/4cb1810a6ab348869083a7bebd3c551d1d) |
+| 7   | To 18.02 | Oblig 1 inn                   |                                                                                         |
+|     | Fr 19.02 | Oblig 2 ut                    | TBA                                                                                     |
+| 10  | To 11.03 | Oblig 2 inn                   |                                                                                         |
+|     | Fr 12.03 | Oblig 3 ut                    | TBA                                                                                     |
+| 14  | To 08.04 | Oblig 3 inn (kan bli flyttet) |                                                                                         |
 
 
 Presentasjon og utlevering av obliger skjer på fredager i auditoriet.
