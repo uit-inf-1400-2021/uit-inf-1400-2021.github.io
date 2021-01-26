@@ -377,3 +377,38 @@ print(t1 + t2) # What does this print?
 ```
 
 
+Lecture review and questions
+==========
+
+Don't worry if you don't have a firm grasp of the following yet. We will re-visit or use many of them throughout in the course, and you will get a better understanding when you try to use them in programs. 
+
+### Terms
+Can you give a short explanation and example of the following? 
+
+- Class
+- Object
+- Attribute
+- Method
+- Inherit / inheritance
+- Parent vs. Child
+- Extending vs. overriding (in classes)
+- Multiple inheritance. 
+- Method resolution order
+- Polymorphism
+
+### Exercise 1
+
+- create a class `A` with a method `foo()`.
+- create a class `B` which
+  - inherits from `A`
+  - extends `A` with a method `bar()`
+  - overrides `A`'s `foo()`
+- create objects from `A` and `B`. 
+
+Let the methods print out some unique text and call methods on the objects created from the two classes. 
+Use it to explore how inheritance works. 
+
+### Exercise 2
+
+Write a Python program that demonstrates the terms defined above. It doesn't have to do anything useful and you can look at the code from the lectures, but try to write your own code. 
+
