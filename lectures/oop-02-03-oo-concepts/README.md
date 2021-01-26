@@ -352,7 +352,7 @@ someaudiofile.play()
 
 We have seen this with the initial PyGame examples.
 
-Not that there are multiple types of polymorphism. We will get back to this later in the course. The above is typically called "Subtype Polymorphism". 
+Note that there are multiple types of polymorphism. We will get back to this later in the course. The above is typically called "Subtype Polymorphism". 
 
 
 Python duck typing goes beyond this by only caring about the interface and not the type.
