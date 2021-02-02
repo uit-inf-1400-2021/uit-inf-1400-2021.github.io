@@ -1,0 +1,51 @@
+# These are my notes for the lecture - in case I forget something
+
+# Running the code
+
+python particles.py # fails with missing pygame
+
+python -m venv venv # set up virtual environment
+source venv/bin/activate # activates venv
+pip install pygame # install pygame
+
+python particles.py
+
+## Profiling
+
+python -m cProfile particles.py
+
+# Shows that pygame.image.load is the culprit
+## Very many calls, why load the image so many times?
+# easy fix - we load an image at the start and re-use it!
+
+## Debugging
+
+# Some particles get stuck
+
+add
+elif event.type == pygame.KEYDOWN:
+  import pdb; pdb.set_trace()
+in event loop
+
+dir() to find particles
+dir(particles[0]) to see the interface for the particles
+particles[0].speed and particles[0].direction
+
+see that the issue comes when the speed is very low
+
+fix by changing move()
+replace by
+self.position += self.direction * time_delta
+self.direction.y += (GRAVITY  * time_delta)
+
+
+## Static checking
+
+run pylint
+fix issues
+
+## Runtime checking
+
+add mem = pympler.tracker.SummaryTracker() before main loop
+
+on quit: mem.print_diff()

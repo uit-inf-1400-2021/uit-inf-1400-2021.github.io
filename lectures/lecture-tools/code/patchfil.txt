@@ -1,0 +1,42 @@
+--- proftest.c	2012-04-24 16:35:45.692958455 +0200
++++ proftest-difftest.c	2012-04-24 16:35:45.692958455 +0200
+@@ -10,6 +10,8 @@
+  * 
+  *
+  * The source code is from a simple Mandelbrot benchmark / mandatory exercise in inf-3201.  
++ * 
++ * NB: this version has a bug. How do you compare it with the original? 
+  */ 
+ 
+ #include <stdio.h>
+@@ -17,7 +19,7 @@
+ int zooms = 10;
+ 
+ const int WIDTH = 500; 
+-const int HEIGHT = 500; 
++const int HEIGHT = 600; 
+ 
+ int crc = 0; 
+ 
+@@ -54,11 +56,11 @@
+ double box_x_min, box_x_max, box_y_min, box_y_max;
+ 
+ inline double translate_x(int x) {       
+-    return (((box_x_max - box_x_min) / WIDTH) * x) + box_x_min;
++    return (((box_x_max - box_x_min) / WIDTH) * x) + box_y_min;
+ }
+ 
+ inline double translate_y(int y) {
+-    return (((box_y_max - box_y_min) / HEIGHT) * y) + box_y_min;
++    return (((box_y_max - box_y_min) / HEIGHT) * y) + box_x_min;
+ }
+ 
+ // Simple Mandelbrot divergation test
+@@ -122,6 +124,7 @@
+ 
+     RoadMap();
+   
++    printf("NB: This version has a bug... but where?\n"); 
+     printf("CRC is %x\n", crc);
+ 
+     return 0; 

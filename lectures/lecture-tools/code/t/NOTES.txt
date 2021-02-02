@@ -1,0 +1,8 @@
+gcc -g proftest.c
+nemiver a.out 
+
+
+pydb python debugger som virker med ddd ! 
+
+
+
