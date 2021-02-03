@@ -101,5 +101,5 @@ Under vil dere finne linker til opptak av forelesningene etter hvert som de blir
 | 2021-01-19 | [mediasite](https://mediasite.uit.no/Mediasite/Play/5d4c123875a74afeaa3b2b0757ccd13d1d) |
 | 2021-01-22 | Se over (under obligatoriske oppgaver) for link.                                        |
 | 2021-01-26 | [mediasite](https://mediasite.uit.no/Mediasite/Play/c6b65e40e67c432e8023e673ca5834bb1d) |
-
+| 2021-02-02 | [mediasite](https://mediasite.uit.no/Mediasite/Play/3e170a0af8f44e4281c38aa6356ba1041d) |
 
