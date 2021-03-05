@@ -60,7 +60,7 @@ Forkortelser:
 |      | Fr 19.02 | *O2 ut*                                 |                                                                                            | 
 | w  8 | Ti 23.02 | Python Data Structures                  | [OOP 6](lectures/oop-06-python-data-structures)                                            | 
 |      | Fr 26.02 | Python Patterns, Strings                | [OOP 7](lectures/oop-07-oop-shortcuts), [OOP 8](lectures/oop-08-strings-and-serialization) | 
-| w  9 | Ti 02.03 | Iterator Pattern                        | [OOP 9](lectures/oop-09-iterators)                                                         | 
+| w  9 | Ti 02.03 | Iterator Pattern                        | [OOP 9](lectures/oop-09-iterator)                                                         | 
 |      | Fr 05.03 |                                         |                                                                                            | 
 | w 10 | Ti 09.03 | Python Design Patterns I                | [OOP 10](lectures/oop-10-design-pat-1)                                                     | 
 |      | Fr 12.03 | *O3 ut*                                 |                                                                                            | 
