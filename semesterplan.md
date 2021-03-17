@@ -43,48 +43,48 @@ Forkortelser:
 * OOP : Dusty Phillips. Python 3 Object Oriented Programming
 
 
-| U#   | Dato     | Tema                                    | Pensum, forelesningsnoatater, ++                                                           | 
-| ---  | ----     | -----                                   | --------------                                                                             | 
-| w  2 | Ti 12.01 | Introduksjon                            | [notater fra introduksjon](lectures/introduksjon)                                          | 
-|      |          | Python and OO Introduction              | OOP 1 - [notater](lectures/oop-01-python-intro-and-oo)                                     | 
-|      | Fr 15.01 | OO Concepts and Introduction to PyGame  | OOP 2 - [notater](lectures/oop-02-oo-and-pygame)                                           | 
-| w  3 | Ti 19.01 | OO Concepts continued                   | OOP 3 - [notater](lectures/oop-02-03-oo-concepts)                                          | 
-|      | Fr 22.01 | *O1 ut*                                 |                                                                                            | 
-| w  4 | Ti 26.01 | Summary and practical examples          | OOP 3 - [notater](lectures/oop-03-summary-and-examples)                                    | 
-|      | Fr 29.01 |                                         |                                                                                            | 
-| w  5 | Ti 02.02 | Programmer's toolchest                  | [notater](lectures/lecture-tools)                                                          | 
-|      | Fr 05.02 |                                         |                                                                                            | 
-| w  6 | Ti 09.02 | Exceptions                              | [OOP 4](lectures/oop-04-exceptions)                                                        | 
-|      | Fr 12.02 | When to use Object-Oriented Programming | [OOP 5](lectures/oop-05-when-to-use-oop)                                                   | 
-| w  7 | Ti 16.02 |                                         |                                                                                            | 
-|      | Fr 19.02 | *O2 ut*                                 |                                                                                            | 
-| w  8 | Ti 23.02 | Python Data Structures                  | [OOP 6](lectures/oop-06-python-data-structures)                                            | 
-|      | Fr 26.02 | Python Patterns, Strings                | [OOP 7](lectures/oop-07-oop-shortcuts), [OOP 8](lectures/oop-08-strings-and-serialization) | 
-| w  9 | Ti 02.03 | Iterator Pattern                        | [OOP 9](lectures/oop-09-iterator)                                                         | 
-|      | Fr 05.03 |                                         |                                                                                            | 
-| w 10 | Ti 09.03 | Python Design Patterns I                | [OOP 10](lectures/oop-10-design-pat-1)                                                     | 
-|      | Fr 12.03 | *O3 ut*                                 |                                                                                            | 
-| w 11 | Ti 16.03 | Python Design Patterns II               | [OOP 11](lectures/oop-11-design-pat-2)                                                     | 
-|      | Fr 19.03 |                                         |                                                                                            | 
-| w 12 | Ti 23.03 | Testing Object-Oriented Programs        | [OOP 12](lectures/oop-12-testing)                                                          | 
-|      | Fr 26.03 | Event-driven programming                | [notes](lectures/lecture-event-driven-programming)                                         | 
-| w 13 | Ti 30.03 | *Påske - ingen forelesning*             |                                                                                            | 
-|      | Fr 02.04 |                                         |                                                                                            | 
-| w 14 | Ti 06.04 |                                         |                                                                                            | 
-|      | To 08.04 | *O3 inn* (kan bli flyttet)              |                                                                                            | 
-|      | Fr 09.04 |                                         |                                                                                            | 
-| w 15 | Ti 13.04 | Class-based vs. classless OOP           | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages)                      | 
-|      | Fr 16.04 |                                         |                                                                                            | 
-| w 16 | Ti 20.04 | Context managers, stop writing classes. | [notes](lectures/lecture-context-mgr-stop-writing-cl)                                      | 
-|      | Fr 23.04 |                                         |                                                                                            | 
-| w 17 | Ti 27.04 |                                         |                                                                                            | 
-|      | Fr 30.04 |                                         |                                                                                            | 
-| w 18 | Ti 04.05 |                                         |                                                                                            | 
-|      | Fr 07.05 | Summary, exam prep                      |                                                                                            | 
-| w 19 | Ti 11.05 |                                         |                                                                                            | 
-|      | Fr 14.05 |                                         |                                                                                            | 
-| w 20 | Ti 18.05 |                                         |                                                                                            | 
-|      | Fr 21.05 | Eksamen                                 | NB: denne *kan* bli flyttet uten at det blir oppdatert her                                 | 
+| U#   | Dato     | Tema                                    | Pensum, forelesningsnoatater, ++                                                           |
+| ---  | ----     | -----                                   | --------------                                                                             |
+| w  2 | Ti 12.01 | Introduksjon                            | [notater fra introduksjon](lectures/introduksjon)                                          |
+|      |          | Python and OO Introduction              | OOP 1 - [notater](lectures/oop-01-python-intro-and-oo)                                     |
+|      | Fr 15.01 | OO Concepts and Introduction to PyGame  | OOP 2 - [notater](lectures/oop-02-oo-and-pygame)                                           |
+| w  3 | Ti 19.01 | OO Concepts continued                   | OOP 3 - [notater](lectures/oop-02-03-oo-concepts)                                          |
+|      | Fr 22.01 | *O1 ut*                                 |                                                                                            |
+| w  4 | Ti 26.01 | Summary and practical examples          | OOP 3 - [notater](lectures/oop-03-summary-and-examples)                                    |
+|      | Fr 29.01 |                                         |                                                                                            |
+| w  5 | Ti 02.02 | Programmer's toolchest                  | [notater](lectures/lecture-tools)                                                          |
+|      | Fr 05.02 |                                         |                                                                                            |
+| w  6 | Ti 09.02 | Exceptions                              | [OOP 4](lectures/oop-04-exceptions)                                                        |
+|      | Fr 12.02 | When to use Object-Oriented Programming | [OOP 5](lectures/oop-05-when-to-use-oop)                                                   |
+| w  7 | Ti 16.02 |                                         |                                                                                            |
+|      | Fr 19.02 | *O2 ut*                                 |                                                                                            |
+| w  8 | Ti 23.02 | Python Data Structures                  | [OOP 6](lectures/oop-06-python-data-structures)                                            |
+|      | Fr 26.02 | Python Patterns, Strings                | [OOP 7](lectures/oop-07-oop-shortcuts), [OOP 8](lectures/oop-08-strings-and-serialization) |
+| w  9 | Ti 02.03 | Iterator Pattern                        | [OOP 9](lectures/oop-09-iterator)                                                          |
+|      | Fr 05.03 |                                         |                                                                                            |
+| w 10 | Ti 09.03 | Python Design Patterns I                | [OOP 10](lectures/oop-10-design-pat-1)                                                     |
+|      | Fr 12.03 | *O3 ut*                                 |                                                                                            |
+| w 11 | Ti 16.03 | Python Design Patterns II               | [OOP 11](lectures/oop-11-design-pat-2)                                                     |
+|      | Fr 19.03 |                                         |                                                                                            |
+| w 12 | Ti 23.03 | Event-driven programming                | [notes](lectures/lecture-event-driven-programming)                                         |
+|      | Fr 26.03 | Testing Object-Oriented Programs        | [OOP 12](lectures/oop-12-testing)                                                          |
+| w 13 | Ti 30.03 | *Påske - ingen forelesning*             |                                                                                            |
+|      | Fr 02.04 |                                         |                                                                                            |
+| w 14 | Ti 06.04 |                                         |                                                                                            |
+|      | To 08.04 | *O3 inn* (kan bli flyttet)              |                                                                                            |
+|      | Fr 09.04 |                                         |                                                                                            |
+| w 15 | Ti 13.04 | Class-based vs. classless OOP           | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages)                      |
+|      | Fr 16.04 |                                         |                                                                                            |
+| w 16 | Ti 20.04 | Context managers, stop writing classes. | [notes](lectures/lecture-context-mgr-stop-writing-cl)                                      |
+|      | Fr 23.04 |                                         |                                                                                            |
+| w 17 | Ti 27.04 |                                         |                                                                                            |
+|      | Fr 30.04 |                                         |                                                                                            |
+| w 18 | Ti 04.05 |                                         |                                                                                            |
+|      | Fr 07.05 | Summary, exam prep                      |                                                                                            |
+| w 19 | Ti 11.05 |                                         |                                                                                            |
+|      | Fr 14.05 |                                         |                                                                                            |
+| w 20 | Ti 18.05 |                                         |                                                                                            |
+|      | Fr 21.05 | Eksamen                                 | NB: denne *kan* bli flyttet uten at det blir oppdatert her                                 |
 
 
 
