@@ -109,4 +109,5 @@ Under vil dere finne linker til opptak av forelesningene etter hvert som de blir
 | 2021-02-26 | [mediasite, del 2](https://mediasite.uit.no/Mediasite/Play/6ce853002939477c8f43cdfd90e497e81d) |
 | 2021-03-05 | [mediasite](https://mediasite.uit.no/Mediasite/Play/bd26eb38abcf4675b75368100bc707d61d) |
 | 2021-03-09 | [mediasite](https://mediasite.uit.no/Mediasite/Play/8ba1d3d4f55542bba04e1dd4b82484381d) |
+| 2021-03-16 | [mediasite](https://mediasite.uit.no/Mediasite/Play/2c7ec2f8b50b4784bde73fd01844cf771d) |
 
