@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+nc -Nd weather.cs.uit.no 44102 | ./strip_spaces.sh | ./get_temperatures.sh |./display_results.py
