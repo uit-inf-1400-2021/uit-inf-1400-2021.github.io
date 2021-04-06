@@ -13,7 +13,7 @@ Obligatoriske oppgaver
 |     | Fr 19.02 | Oblig 2 ut                    | [mediasite](https://mediasite.uit.no/Mediasite/Play/1ff076ab5d484985b13b6b0a5e7a16361d) |
 | 10  | To 11.03 | Oblig 2 inn                   |                                                                                         |
 |     | Fr 12.03 | Oblig 3 ut                    | [mediasite](https://mediasite.uit.no/Mediasite/Play/24813d311c1c4210b9d875c52b3e3acf1d) |
-| 14  | To 08.04 | Oblig 3 inn (kan bli flyttet) |                                                                                         |
+| 14  | To 15.04 | Oblig 3 inn (kan bli flyttet) |                                                                                         |
 
 
 Presentasjon og utlevering av obliger skjer på fredager i auditoriet.
